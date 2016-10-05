@@ -1,0 +1,1 @@
+staging area is just a temporary wasteland for the final commit; it's nice because you can correct mistakes (accidentally adding a file) and visually see all of the files of a commit before actually...committing. 
