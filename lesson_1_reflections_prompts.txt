@@ -1,0 +1,23 @@
+"Move fast and break things" is easier with version control; 
+
+some design desicions can only be made after seeing the executed product; version control is awesome for that.
+
+version control is facilitated by diff -u file1 file2
+
+learn from mistakes using history; compare performance over multiple versions; identify coding habits; looking at code just makes you a better coder.
+
+pros: -can identify “logical change” better than any program 
+	-code will compile (if ya want)
+cons: -user error
+
+Google Docs isn’t intended for coders; coders will require co-dependent files (eg html & css) that just isn’t seen in google docs. 
+
+REVERSE CHRONOLOGY BEWARE
+
+scrolling is a perfect example of why you can save often, but shouldn’t save too often. Git log shows you a birds eye view of everything; git diff shows you the specific interpolation between two changes	
+
+
+Because any mistake can now be immediately undone! 
+
+I want to use git to be as fast as possible! I want to know how to access deep learning repositories and move quickly through big piles of code without fear of destroying anything. 
+
